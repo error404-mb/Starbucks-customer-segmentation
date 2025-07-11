@@ -1,4 +1,4 @@
-# Starbucks-customer-segmentation
+# Starbucks-Customer-Segmentation
 # Business Understanding :
 Starbucks Corporation is a global coffee company with over 30,000 stores across 80+ countries. To build customer loyalty, it offers a Starbucks Rewards Program, where members receive promotional offers through various channels. However, customer responses to these offers vary significantly, leading to missed engagement opportunities and inefficient marketing. Understanding customer behavior is key to delivering relevant promotions and improving customer retention.
 
