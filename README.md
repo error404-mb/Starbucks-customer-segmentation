@@ -54,5 +54,47 @@ I applied K-Means Clustering to segment customers based on demographic and behav
 ### Silhouette Method
 <img width="576" height="453" alt="download" src="https://github.com/user-attachments/assets/c7edd2c1-6548-487f-88c4-e8e91bb6f2be" />
 
+### 7. Result and key vizualizations 
+Once the model was trained, I analyzed the clusters using visualizations like bar charts,scatter plot and pair plots to understand the differences in behavior, spending, and responsiveness across segments.
+
+Below are some visualizations and insights from my analysis: 
+
+<img width="630" height="470" alt="download" src="https://github.com/user-attachments/assets/7c97ca06-4678-46e2-8561-2a3acfc8e088" />
+
+<img width="2990" height="495" alt="download" src="https://github.com/user-attachments/assets/873bb746-401d-4218-965c-d345b30f2817" />
+
+<img width="2990" height="495" alt="download" src="https://github.com/user-attachments/assets/0f7d4835-b785-4510-9c65-8818ee8e7c1f" />
+
+<img width="2990" height="495" alt="download" src="https://github.com/user-attachments/assets/2f8b7faa-e20b-41ce-a28d-1a6f9f42d84c" />
+
+<img width="914" height="490" alt="download" src="https://github.com/user-attachments/assets/b7fed7e3-9e13-47c3-9280-a20347f4f781" />
+
+
+### 8. Interpretation from the cluster
+
+Finlly i interpreted the resulting customer segments according to their behaviour as follows:
+
+<img width="575" height="470" alt="download" src="https://github.com/user-attachments/assets/10454249-ce54-42a0-9bc9-79221e8d7ad1" />
+
+### Customer Demographics:
+
+<img width="580" height="453" alt="download" src="https://github.com/user-attachments/assets/301e2d84-bf05-4687-89ec-ad8c18666da4" />
+
+<img width="571" height="453" alt="download" src="https://github.com/user-attachments/assets/1e822bde-9902-4180-b29c-54204fbb2949" />
+
+<img width="580" height="453" alt="download" src="https://github.com/user-attachments/assets/9fe3d5a5-3d30-468e-b0a7-705397c8df9e" />
+
+<img width="636" height="468" alt="download" src="https://github.com/user-attachments/assets/ce7d31ea-22a9-4c47-81b4-f51ffdae69e5" />
+
+<img width="636" height="468" alt="download" src="https://github.com/user-attachments/assets/a5b0aa3f-36f5-49eb-b335-a4f9b25c719b" />
+
+<img width="1114" height="986" alt="download" src="https://github.com/user-attachments/assets/4164e3da-c682-4da1-885a-afee33eeaebc" />
+
+- Most Valuable Customers (MVC) – Cluster 4 - High-spending users with excellent engagement and completion rates.
+- Regular Customers – Cluster 2 - Consistent, moderate spenders who engage steadily.
+- High Potential Customers – Cluster 0 - Users with strong responsiveness.
+- Offer Viewers Customers – Cluster 1 - Customers who frequently view promotions but seldom complete them.
+- Low Engagers Customers – Cluster 3 - Users with minimal interaction.
+
 
 
